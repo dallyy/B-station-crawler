@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/bili_scraper/__init__.py
+src/bili_scraper/crawler.py
+src/bili_scraper/keywords.py
+src/bili_scraper/persist.py
+src/bili_scraper/run.py
+src/bili_scraper/search.py
+src/bili_scraper/service.py
+src/bili_scraper/utils.py
+src/bili_scraper/web.py
+src/bili_scraper.egg-info/PKG-INFO
+src/bili_scraper.egg-info/SOURCES.txt
+src/bili_scraper.egg-info/dependency_links.txt
+src/bili_scraper.egg-info/top_level.txt

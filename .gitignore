@@ -1,0 +1,43 @@
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 日志文件
+logs/
+*.log
+
+# 数据文件
+data.sqlite
+*.db
+*.sqlite
+
+# 输出文件
+output/results.json
+
+# 锁文件
+*.lock
+run.lock
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# PowerShell脚本（可选保留）
+# scripts/*.ps1
